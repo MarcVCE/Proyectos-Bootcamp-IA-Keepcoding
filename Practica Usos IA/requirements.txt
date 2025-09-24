@@ -1,0 +1,6 @@
+# requirements.txt para practicausosdeiajup.ipynb
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
