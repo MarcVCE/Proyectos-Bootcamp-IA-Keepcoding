@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código y resultados del fine-tuning de un modelo BART para tareas de resumen automático de textos históricos además de la transcripción de esos resumenes a imagenes representativas.
 
-🚀 **Modelo disponible en Hugging Face:**  
+🚀 **Modelo disponible en Hugging Face (publicado bajo pseudónimo):**
 👉 [Pedro32183290/bart-stablediffusion-pipeline](https://huggingface.co/Pedro32183290/bart-stablediffusion-pipeline)
 
 ---
